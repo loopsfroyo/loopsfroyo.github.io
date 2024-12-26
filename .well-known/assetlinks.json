@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.example.loops_pos",
+    "sha256_cert_fingerprints":
+    ["74:E6:84:F5:9C:5E:E4:F3:88:95:82:C7:40:1D:16:23:D7:00:2D:D2:DE:6C:FB:CA:A1:CA:72:98:3C:EB:7E:33"]
+  }
+}]
